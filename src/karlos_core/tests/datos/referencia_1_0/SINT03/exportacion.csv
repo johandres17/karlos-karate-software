@@ -1,0 +1,2 @@
+Export_Build,Bout_Event,Bout_Phase,Weight_Category,AKA_Name,AO_Name,Timestamp,Match_Time_s,Active_Play_Cumulative_s,Phase,Athlete,Category,Technique,Level,Modifier,Score,Sequence_ID,Action_Result,subcategory,target,f_start,f_end,duration_s,notes,round,bout_id,video_file,id,Sport_action_type,Sport_base_technique,Sport_contact,Sport_stance
+commit:<COMMIT> | <FECHA>,,,,,,<FECHA>,0.0,0.0,Minute_1,AKA,ATTACK,Gyaku Tsuki,Jodan,Rear,,SEQ_001,No_Score,HAND TECHNIQUES,,300,318,0.0,,0,BOUT_<FECHA>_Unknown_vs_Unknown,,1,Direct,Tsuki,NoScore,Rear

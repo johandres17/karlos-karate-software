@@ -1,0 +1,277 @@
+{
+ "nota": "ok",
+ "hojas": {
+  "Bout Info": [
+   [
+    "Field",
+    "Value"
+   ],
+   [
+    "Bout ID",
+    null
+   ],
+   [
+    "Competition Name",
+    null
+   ],
+   [
+    "Event Phase",
+    null
+   ],
+   [
+    "Category Type",
+    null
+   ],
+   [
+    "Weight Category",
+    null
+   ],
+   [
+    "Pool / Group",
+    null
+   ],
+   [
+    "Tatami",
+    null
+   ],
+   [
+    "Athlete A Name",
+    null
+   ],
+   [
+    "Athlete A Country",
+    null
+   ],
+   [
+    "Athlete A Club / Dojo",
+    null
+   ],
+   [
+    "Athlete B Name",
+    null
+   ],
+   [
+    "Athlete B Country",
+    null
+   ],
+   [
+    "Athlete B Club / Dojo",
+    null
+   ],
+   [
+    "Bout Number",
+    null
+   ],
+   [
+    "Round",
+    null
+   ],
+   [
+    "Evaluator Name",
+    null
+   ],
+   [
+    "Evaluator Institution",
+    null
+   ],
+   [
+    "Analysis Date",
+    null
+   ],
+   [
+    "Export Build",
+    "commit:<COMMIT> | <FECHA>"
+   ],
+   [
+    null,
+    null
+   ],
+   [
+    "Fight Overview",
+    null
+   ],
+   [
+    "Fight Start Frame",
+    null
+   ],
+   [
+    "Fight End Frame",
+    null
+   ],
+   [
+    "Fight Duration (s)",
+    null
+   ],
+   [
+    null,
+    null
+   ],
+   [
+    "Time Summary",
+    null
+   ],
+   [
+    "Total Active Time (s)",
+    "0"
+   ],
+   [
+    "Total Stopped Time (s)",
+    "0"
+   ],
+   [
+    null,
+    null
+   ],
+   [
+    "AKA Active Time (s)",
+    "0"
+   ],
+   [
+    "AKA Stopped Time (s)",
+    "0"
+   ],
+   [
+    "AO Active Time (s)",
+    "0"
+   ],
+   [
+    "AO Stopped Time (s)",
+    "0"
+   ]
+  ],
+  "Annotations": [
+   [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   [
+    "commit:<COMMIT> | <FECHA>",
+    null,
+    null,
+    null,
+    null,
+    null,
+    "<FECHA>",
+    "0",
+    "0",
+    "Minute_1",
+    "AKA",
+    "ATTACK",
+    "Gyaku Tsuki",
+    "Jodan",
+    "Rear",
+    null,
+    "SEQ_001",
+    "No_Score",
+    "HAND TECHNIQUES",
+    null,
+    "300",
+    "318",
+    "0",
+    null,
+    "0",
+    "BOUT_<FECHA>_Unknown_vs_Unknown",
+    null,
+    "1"
+   ]
+  ],
+  "Athlete Comparison": [
+   [
+    "Metric",
+    "AKA",
+    "AO"
+   ],
+   [
+    "Total Techniques",
+    "1",
+    "0"
+   ],
+   [
+    "Techniques / min",
+    "0",
+    "0"
+   ],
+   [
+    "IPPON",
+    "0",
+    "0"
+   ],
+   [
+    "WAZA",
+    "0",
+    "0"
+   ],
+   [
+    "YUKO",
+    "0",
+    "0"
+   ],
+   [
+    "Referee Stops",
+    "0",
+    "0"
+   ],
+   [
+    "Total Stopped Time (s)",
+    "0",
+    "0"
+   ],
+   [
+    "Fight Duration (s)",
+    "0",
+    "0"
+   ],
+   [
+    "Active Time (s)",
+    "0",
+    "0"
+   ],
+   [
+    "Stopped Time (s)",
+    "0",
+    "0"
+   ],
+   [
+    "Total Fouls",
+    "0",
+    "0"
+   ],
+   [
+    "Fouls (highest penalty reached)",
+    "—",
+    "—"
+   ],
+   [
+    "Most Used Technique",
+    "Gyaku Tsuki",
+    null
+   ]
+  ]
+ }
+}

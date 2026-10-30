@@ -1,0 +1,8 @@
+# Exact versions with which Karlos Karate 1.2 was built and tested.
+PySide6==6.11.1
+opencv-python-headless==4.13.0.92
+numpy==2.4.6
+reportlab==4.5.1
+openpyxl==3.1.5
+qtawesome==1.4.2
+pillow==12.2.0

@@ -1,0 +1,212 @@
+<PROGRAMA>  Page 1
+<PROGRAMA>
+PROFESSIONAL COMBAT ANALYSIS REPORT
+SINTETICO  -75 kg
+ A. ATLETA vs B. ATLETA
+ DRAW
+ Final Score: 0 — 0
+ 0
+TOTAL ANNOTATIONS
+ <FECHA>
+ACTIVE FIGHT TIME
+ 0%
+A. ATLETA EFFECTIVENESS
+ 0%
+B. ATLETA EFFECTIVENESS
+
+
+<PROGRAMA>  Page 2
+ <FECHA>
+A. ATLETA ACTIVE TIME
+ <FECHA>
+B. ATLETA ACTIVE TIME
+ <FECHA>
+A. ATLETA STOPPED TIME
+ <FECHA>
+B. ATLETA STOPPED TIME
+ Evaluator: Referencia (Pruebas)  Generated: <FECHA> — <FECHA>
+
+
+<PROGRAMA>  Page 3
+EXECUTIVE SUMMARY
+PERFORMANCE COMPARISON
+Metric
+A. ATLETA
+B. ATLETA
+Adv
+Attacks
+0
+0
+=
+Effectiveness
+0.0%
+0.0%
+=
+Top Technique
+—
+—
+—
+Unique Techs
+0
+0
+=
+Diversity
+0.00
+0.00
+=
+SCORING BREAKDOWN
+Score
+A. ATLETA
+B. ATLETA
+IPPON (3)
+0
+0
+WAZA (2)
+0
+0
+YUKO (1)
+0
+0
+Total
+0
+0
+Success %
+0%
+0%
+TECHNIQUE TYPES
+Type
+A. ATLETA
+B. ATLETA
+Hand
+0
+0
+Foot
+0
+0
+Sweeps
+0
+0
+Tactics
+0
+0
+Defense
+0
+0
+TARGET ZONES (High/Mid/Low)
+Target
+A. ATL Atk
+A. ATL Scr
+B. ATL Atk
+B. ATL Scr
+High
+0
+0
+0
+0
+Middle
+0
+0
+0
+0
+Low
+0
+0
+0
+0
+KEY INSIGHTS
+
+
+<PROGRAMA>  Page 4
+
+
+<PROGRAMA>  Page 5
+TACTICAL ANALYSIS
+TEMPORAL ANALYSIS — Performance by Phase
+Phase
+A. ATLETA Attacks
+A. ATLETA Score
+B. ATLETA Attacks
+B. ATLETA Score
+Minute 1
+0
+0
+0
+0
+Minute 2
+0
+0
+0
+0
+Minute 3
+0
+0
+0
+0
+Atoshibaraku
+0
+0
+0
+0
+TACTICAL ACTIONS — Feints & Clinches
+Action Type
+A. ATLETA
+B. ATLETA
+Feints
+0
+0
+Clinches
+0
+0
+Total Tactics
+0
+0
+DEFENSIVE PROFILE
+Metric
+A. ATLETA
+B. ATLETA
+Defensive Actions
+0
+0
+Attack/Defense Ratio
+0:0
+0:0
+
+
+<PROGRAMA>  Page 6
+TACTICAL INSIGHTS
+ Both athletes showed balanced tactical approaches throughout the bout.
+
+
+<PROGRAMA>  Page 7
+PERFORMANCE VISUALIZATION
+TECHNIQUE TYPE DISTRIBUTION
+A. ATLETA
+B. ATLETA
+Hand
+Foot
+Sweeps
+Tactics
+Defense
+0
+TARGET LEVEL DISTRIBUTION
+
+
+<PROGRAMA>  Page 8
+No data
+A. ATLETA
+No data
+B. ATLETA
+SCORE EVOLUTION BY PHASE
+
+
+<PROGRAMA>  Page 9
+A. ATLETA
+B. ATLETA
+Min 1
+Min 2
+Min 3
+Atoshi
+0
+1
+2
+3

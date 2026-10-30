@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Karlos Karate Software"
+version: "1.2"
+date-released: "2026-10-30"
+license: AGPL-3.0
+repository-code: "https://github.com/johandres17/karlos-karate-software"
+abstract: "Open-source desktop application for the observational analysis of karate bouts (kumite): time-motion and technical-tactical annotation, used independently or in a combined annotation mode, with effective bout time and scores reconstructed from the annotations under explicit rules."
+authors:
+  - family-names: Robalino
+    given-names: Johan
+    affiliation: "Centre of Research, Education, Innovation and Intervention in Sport (CIFI2D), Faculty of Sport, University of Porto; Porto Biomechanics Laboratory (LABIOMEP), University of Porto"
+    email: up202310701@up.pt
+  - family-names: Parolini
+    given-names: Franciele
+    affiliation: "Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa (ESS Norte CVP)"
+  - family-names: Ferreira
+    given-names: Jacielle Carolina
+    affiliation: "Postgraduate Program in Physical Education, Federal University of Mato Grosso"
+  - family-names: Vilas-Boas
+    given-names: João Paulo
+    affiliation: "Centre of Research, Education, Innovation and Intervention in Sport (CIFI2D), Faculty of Sport, University of Porto; Porto Biomechanics Laboratory (LABIOMEP), University of Porto"
+keywords:
+  - karate
+  - kumite
+  - notational analysis
+  - time-motion analysis
+  - video annotation

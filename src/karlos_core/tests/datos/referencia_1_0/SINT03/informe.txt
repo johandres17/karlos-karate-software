@@ -1,0 +1,215 @@
+<PROGRAMA>  Page 1
+<PROGRAMA>
+PROFESSIONAL COMBAT ANALYSIS REPORT
+—  —
+ AKA vs AO
+ DRAW
+ Final Score: 0 — 0
+ 1
+TOTAL ANNOTATIONS
+ <FECHA>
+ACTIVE FIGHT TIME
+ 0%
+AKA EFFECTIVENESS
+ 0%
+AO EFFECTIVENESS
+
+
+<PROGRAMA>  Page 2
+ <FECHA>
+ AKA ACTIVE TIME
+ <FECHA>
+ AO ACTIVE TIME
+ <FECHA>
+AKA STOPPED TIME
+ <FECHA>
+AO STOPPED TIME
+ Evaluator: — (—)  Generated: <FECHA> — <FECHA>
+
+
+<PROGRAMA>  Page 3
+EXECUTIVE SUMMARY
+PERFORMANCE COMPARISON
+Metric
+AKA
+AO
+Adv
+Attacks
+1
+0
+▲ AKA
+Effectiveness
+0.0%
+0.0%
+=
+Top Technique
+Gyaku Tsuki
+—
+—
+Unique Techs
+1
+0
+▲ AKA
+Diversity
+0.00
+0.00
+=
+SCORING BREAKDOWN
+Score
+AKA
+AO
+IPPON (3)
+0
+0
+WAZA (2)
+0
+0
+YUKO (1)
+0
+0
+Total
+0
+0
+Success %
+0%
+0%
+TECHNIQUE TYPES
+Type
+AKA
+AO
+Hand
+1
+0
+Foot
+0
+0
+Sweeps
+0
+0
+Tactics
+0
+0
+Defense
+0
+0
+TARGET ZONES (High/Mid/Low)
+Target
+AKA Atk
+AKA Scr
+AO Atk
+AO Scr
+High
+0
+0
+0
+0
+Middle
+0
+0
+0
+0
+Low
+0
+0
+0
+0
+KEY INSIGHTS
+
+
+<PROGRAMA>  Page 4
+ AKA maintained higher offensive pressure with 1 attacks vs 0, controlling the pace of the bout.
+ High number of referee stops (0) resulted in only 0% active fight time, potentially affecting rhythm and conditioning.
+
+
+<PROGRAMA>  Page 5
+TACTICAL ANALYSIS
+TEMPORAL ANALYSIS — Performance by Phase
+Phase
+AKA Attacks
+AKA Score
+AO Attacks
+AO Score
+Minute 1
+0
+0
+0
+0
+Minute 2
+0
+0
+0
+0
+Minute 3
+0
+0
+0
+0
+Atoshibaraku
+0
+0
+0
+0
+TACTICAL ACTIONS — Feints & Clinches
+Action Type
+AKA
+AO
+Feints
+0
+0
+Clinches
+0
+0
+Total Tactics
+0
+0
+DEFENSIVE PROFILE
+Metric
+AKA
+AO
+Defensive Actions
+0
+0
+Attack/Defense Ratio
+1:0
+0:0
+
+
+<PROGRAMA>  Page 6
+TACTICAL INSIGHTS
+ Both athletes showed balanced tactical approaches throughout the bout.
+
+
+<PROGRAMA>  Page 7
+PERFORMANCE VISUALIZATION
+TECHNIQUE TYPE DISTRIBUTION
+AKA
+AO
+Hand
+Foot
+Sweeps
+Tactics
+Defense
+0
+1
+TARGET LEVEL DISTRIBUTION
+
+
+<PROGRAMA>  Page 8
+No data
+AKA
+No data
+AO
+SCORE EVOLUTION BY PHASE
+
+
+<PROGRAMA>  Page 9
+AKA
+AO
+Min 1
+Min 2
+Min 3
+Atoshi
+0
+1
+2
+3

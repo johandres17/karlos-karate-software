@@ -1,0 +1,8 @@
+# karlos csv v2
+# video: SINT03.mp4
+# fps: 29.97
+# session: referencia/1
+# actions: 1
+# sem agrupamentos: cada linha é uma ação, e as sequências montam-se no tratamento dos dados
+n,t_s,active_s,phase,f_start,f_end,athlete,category,group,action,level,stance,context,outcome,sanction,reason,score,pts_aka,pts_ao,lead,pen_aka,pen_ao,notes
+1,10.01,0.0,Minute_1,300,318,AKA,ATTACK,HAND TECHNIQUES,Gyaku Tsuki,Jodan,Rear,Direct,NoScore,,,NONE,0,0,0,0,0,

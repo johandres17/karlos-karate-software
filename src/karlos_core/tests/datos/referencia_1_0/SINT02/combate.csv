@@ -1,0 +1,18 @@
+# karlos csv v2
+# video: SINT02.mp4
+# fps: 29.97
+# fight: 0-5400
+# competition: SINTETICO
+# phase: Eliminations
+# category: Kumite Male
+# weight: -75 kg
+# bout_number: 1
+# bout_round: 1
+# evaluator: Referencia
+# institution: Pruebas
+# aka: A. ATLETA (AAA)
+# ao: B. ATLETA (BBB)
+# session: referencia/1
+# actions: 0
+# sem agrupamentos: cada linha é uma ação, e as sequências montam-se no tratamento dos dados
+n,t_s,active_s,phase,f_start,f_end,athlete,category,group,action,level,stance,context,outcome,sanction,reason,score,pts_aka,pts_ao,lead,pen_aka,pen_ao,notes

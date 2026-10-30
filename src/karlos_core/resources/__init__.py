@@ -1,0 +1,1 @@
+"""Static resources for KARLOS ANNOTATOR (icons, images, etc.)."""

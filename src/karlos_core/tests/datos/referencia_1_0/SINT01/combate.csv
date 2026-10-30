@@ -1,0 +1,55 @@
+# karlos csv v2
+# video: SINT01.mp4
+# fps: 29.97
+# fight: 60-6000
+# competition: SINTETICO
+# phase: Eliminations
+# category: Kumite Male
+# weight: -75 kg
+# bout_number: 1
+# bout_round: 1
+# evaluator: Referencia
+# institution: Pruebas
+# aka: A. ATLETA (AAA)
+# ao: B. ATLETA (BBB)
+# session: referencia/1
+# actions: 37
+# sem agrupamentos: cada linha é uma ação, e as sequências montam-se no tratamento dos dados
+n,t_s,active_s,phase,f_start,f_end,athlete,category,group,action,level,stance,context,outcome,sanction,reason,score,pts_aka,pts_ao,lead,pen_aka,pen_ao,notes
+1,4.0,2.0,Minute_1,120,136,AKA,TACTICS,,Feint,Upper Limb,,,,,,NONE,0,0,0,0,0,
+2,4.67,2.67,Minute_1,140,158,AKA,ATTACK,HAND TECHNIQUES,Kizami Tsuki,Jodan,Lead,Direct,Score,,,YUKO,0,0,0,0,0,
+3,4.74,2.74,Minute_1,142,160,AO,DEFENSE,BLOCKS & EVASIONS,Dodge,,,,,,,NONE,1,0,-1,0,0,
+4,5.67,3.67,Minute_1,170,620,AKA,REFEREE STOP,MATCH STATES,Referee,,,,,,,NONE,1,0,1,0,0,
+5,5.67,3.67,Minute_1,170,620,AO,REFEREE STOP,MATCH STATES,Referee,,,,,,,NONE,1,0,-1,0,0,
+6,23.36,6.34,Minute_1,700,716,AO,TACTICS,,Feint,Lower Limb,,,,,,NONE,1,0,-1,0,0,
+7,23.96,6.94,Minute_1,718,744,AO,ATTACK,FOOT TECHNIQUES,Mawashi Geri,Chudan,Rear,Direct,Score,,,WAZA,1,0,-1,0,0,
+8,24.16,7.14,Minute_1,724,732,AKA,DEFENSE,BLOCKS & EVASIONS,Hand Block,,,,,,,NONE,1,2,-1,0,0,
+9,25.03,8.01,Minute_1,750,800,AKA,TACTICS,,Clinch,,,,,,,NONE,1,2,-1,0,0,
+10,25.09,8.07,Minute_1,752,796,AO,TACTICS,,Clinch,,,,,,,NONE,1,2,1,0,0,
+11,26.36,9.34,Minute_1,790,790,AO,PENALTY,Clinching,CHUI-1,,,,,,,,1,2,1,0,0,
+12,26.86,9.84,Minute_1,805,1200,AKA,REFEREE STOP,MATCH STATES,Referee,,,,,,,NONE,1,2,-1,0,1,
+13,26.86,9.84,Minute_1,805,1200,AO,REFEREE STOP,MATCH STATES,Referee,,,,,,,NONE,1,2,1,0,1,
+14,43.38,13.18,Minute_1,1300,1318,AKA,ATTACK,HAND TECHNIQUES,Gyaku Tsuki,Chudan,Rear,Direct,NoScore,,,NONE,1,2,-1,0,1,
+15,44.11,13.91,Minute_1,1322,1338,AKA,ATTACK,HAND TECHNIQUES,Gyaku Tsuki,Jodan,Rear,Combination,NoScore,,,NONE,1,2,-1,0,1,
+16,44.71,14.51,Minute_1,1340,1352,AO,ATTACK,HAND TECHNIQUES,Kizami Tsuki,Jodan,Lead,Counter,NoScore,,,NONE,1,2,1,0,1,
+17,46.71,16.52,Minute_1,1400,1414,AO,ATTACK,HAND TECHNIQUES,Gyaku Tsuki,Jodan,Rear,Direct,Foul,Contact,,FOUL,1,2,1,0,1,
+18,47.38,17.18,Minute_1,1420,1900,AKA,REFEREE STOP,MATCH STATES,VR,,,,,,,NONE,1,2,-1,0,2,
+19,47.38,17.18,Minute_1,1420,1900,AO,REFEREE STOP,MATCH STATES,VR,,,,,,,NONE,1,2,1,0,2,
+20,66.73,20.52,Minute_1,2000,2024,AKA,ATTACK,FOOT TECHNIQUES,Kizami Mawashi,Jodan,Lead,Anticipation,NoScore,,,NONE,1,2,-1,0,2,
+21,70.07,23.86,Minute_1,2100,2112,AO,ATTACK,SWEEPS & TAKEDOWNS,Ashi-barai,,,Direct,Down,,,NONE,1,2,1,0,2,
+22,70.6,24.39,Minute_1,2116,2130,AO,ATTACK,HAND TECHNIQUES,Gyaku Tsuki,Jodan,Rear,Direct,Score,,,IPPON,1,2,1,0,2,
+23,71.4,25.19,Minute_1,2140,2600,AKA,REFEREE STOP,MATCH STATES,Referee,,,,,,,NONE,1,5,-4,0,2,
+24,71.4,25.19,Minute_1,2140,2600,AO,REFEREE STOP,MATCH STATES,Referee,,,,,,,NONE,1,5,4,0,2,
+25,90.09,28.53,Minute_1,2700,2700,AKA,PENALTY,Jogai,CHUI-1,,,,,,,,1,5,-4,0,2,
+26,92.09,30.53,Minute_1,2760,2760,AO,PENALTY,Jogai,CHUI-2,,,,,,,,1,5,4,1,2,
+27,93.43,31.87,Minute_1,2800,2820,AO,UNIDENTIFIED,,Unidentifiable,Reason: Referee,,,,,Referee,NONE,1,5,4,1,3,
+28,96.76,35.2,Minute_1,2900,2930,AKA,ATTACK,FOOT TECHNIQUES,Kizami Ura Mawashi,Jodan,Lead,Direct,NoScore,,,NONE,1,5,-4,1,3,
+29,98.43,36.87,Minute_1,2950,2962,AO,ATTACK,SWEEPS & TAKEDOWNS,Ashi-barai,,,Direct,Miss,,,NONE,1,5,4,1,3,
+30,99.77,38.2,Minute_1,2990,3410,AO,REFEREE STOP,MATCH STATES,Referee,,,,,,,NONE,1,5,4,1,3,
+31,100.1,38.2,Minute_1,3000,3000,AO,PENALTY,Avoiding,CHUI-3,,,,,,,,1,5,4,1,3,
+32,100.43,38.87,Minute_1,3010,3400,AKA,REFEREE STOP,MATCH STATES,VR,,,,,,,NONE,1,5,-4,1,4,
+33,116.78,42.21,Minute_1,3500,3500,AKA,PENALTY,Clinching,CHUI-2,,,,,,,,1,5,-4,1,4,
+34,118.79,43.21,Minute_1,3560,3560,AO,PENALTY,Jogai,HANSOKU-CHUI,,,,,,,,1,5,4,2,4,
+35,120.12,45.55,Minute_1,3600,3612,AKA,TACTICS,,Feint,Upper Limb,,,,,,NONE,1,5,-4,2,5,"rápida, con ""pausa"" antes"
+36,120.59,46.01,Minute_1,3614,3630,AKA,ATTACK,HAND TECHNIQUES,Gyaku Tsuki,Jodan,Rear,Direct,Score,,,YUKO,1,5,-4,2,5,
+37,200.53,124.96,Minute_3,6010,6024,AO,ATTACK,HAND TECHNIQUES,Kizami Tsuki,Jodan,Lead,Direct,NoScore,,,NONE,2,5,3,2,5,

@@ -1,0 +1,1 @@
+"""Sport icons for KARLOS ANNOTATOR."""
